@@ -1,1 +1,1 @@
-# Dimensionality-reduction-using-Pca
+# Dimesnsionality-Reduction
